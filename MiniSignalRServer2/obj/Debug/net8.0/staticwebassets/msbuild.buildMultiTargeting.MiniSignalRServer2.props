@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiniSignalRServer2.props" />
+</Project>
