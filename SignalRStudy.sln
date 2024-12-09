@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientsSignalR", "ClientsSi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniSignalRServer2", "MiniSignalRServer2\MiniSignalRServer2.csproj", "{52BDB27C-987D-466F-A039-F59A0A837B33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationServerSignalr", "NotificationServerSignalr\NotificationServerSignalr.csproj", "{C711BE64-3021-4F1C-B687-B2DD2DE6D905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{52BDB27C-987D-466F-A039-F59A0A837B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52BDB27C-987D-466F-A039-F59A0A837B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52BDB27C-987D-466F-A039-F59A0A837B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C711BE64-3021-4F1C-B687-B2DD2DE6D905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C711BE64-3021-4F1C-B687-B2DD2DE6D905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C711BE64-3021-4F1C-B687-B2DD2DE6D905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C711BE64-3021-4F1C-B687-B2DD2DE6D905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
